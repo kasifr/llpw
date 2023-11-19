@@ -4,7 +4,7 @@ I need a quick and dirty utility to solve tiny LP problems and come across the p
 
 I find relevant to write a little wrapper so as to have less bloated code whenever I have to solve a LP problem and come up with this.
 
-To illustrate my intent, please see here after the crate's sample code rewritten using the wrapper. Judge by yourself ;-)
+To illustrate my intent, please see here after the crate's sample code rewritten leveraging the wrapper. Judge by yourself ;-)
 
 ## Acknowledgement
 👍 to [Kurt Ehlert](https://github.com/kehlert) for providing the crate to the community!
