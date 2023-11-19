@@ -24,5 +24,46 @@ fn main() {
     lp_problem.solve_primal_and_print();
     lp_problem.solve_dual_and_print();
 }
+```
 
+Output:
+
+```
+5 variables and 3 constraints
+
+minimize
++ 2 x1 + 10 x2 + 1 x4
+
+subject to
++ 2.5 x1 + 3.5 x2 ≥ 5
++ 2.5 x2 + 4.5 x1 ≤ 1
+- 1 x3 - 3 x4 - 4 x5 = 2
+
+with the bounds
+-1 ≤ x1 ≤ 1
+x2 ≤ 6
+x3 ≥ 0
+x4 = 0
+x5 free
+
+Objective value: 19.157894736842103
+Optimal point:
+  ┌                     ┐
+  │ -0.9473684210526313 │
+  │  2.1052631578947367 │
+  │                   0 │
+  │                   0 │
+  │                -0.5 │
+  └                     ┘
+
+
+Objective value: 19.157894736842103
+Optimal point:
+  ┌                     ┐
+  │ -0.9473684210526314 │
+  │  2.1052631578947367 │
+  │                   0 │
+  │                   0 │
+  │                -0.5 │
+  └                     ┘
 ```
