@@ -1,6 +1,8 @@
 # llp
 
-I need a quick and dirty utility to solve a tiny LP problem and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
+I need a quick and dirty utility to solve tiny LP problems and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
+
+I feel the need to write a little wrapper to have less bloated code whenever I have to solve a LP problem and come with this.
 
 ```rust
 mod lpp; 
