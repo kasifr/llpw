@@ -9,7 +9,7 @@ To illustrate my intent, please see here after the crate's sample code rewritten
 👍 to [Kurt Ehlert](https://github.com/kehlert) for providing the crate to the community!
 
 
-Sample code:
+##Sample code:
 ```rust
 mod lpp; 
 use lpp::LinearProgrammingProblem;
@@ -36,7 +36,7 @@ fn main() {
 }
 ```
 
-Output:
+##Output:
 
 ```
 5 variables and 3 constraints
