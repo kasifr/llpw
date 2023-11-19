@@ -1,6 +1,7 @@
 # llp
 
-```
+
+```rust
 mod lpp; 
 use lpp::LinearProgrammingProblem;
 
