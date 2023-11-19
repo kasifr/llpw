@@ -1,4 +1,4 @@
-# llp
+# llpw
 
 I need a quick and dirty utility to solve tiny LP problems and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
 
