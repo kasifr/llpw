@@ -1,5 +1,6 @@
 # llp
 
+I need a quick and dirty utility to solve a tiny LP problem and come across the awesome rust [ellp](https://crates.io/crates/ellp) crate.
 
 ```rust
 mod lpp; 
