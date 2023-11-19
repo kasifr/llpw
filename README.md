@@ -6,6 +6,8 @@ I find relevant to write a little wrapper so as to have less bloated code whenev
 
 To illustrate my intent, please see here after the crate's sample code rewritten using the wrapper. Judge by yourself ;-)
 
+👍 to [Kurt Ehlert](https://github.com/kehlert) for providing the crate to the community!
+
 ```rust
 mod lpp; 
 use lpp::LinearProgrammingProblem;
