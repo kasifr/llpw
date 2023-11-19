@@ -1,5 +1,5 @@
-mod lpp; 
-use lpp::LinearProgrammingProblem;
+mod lppw; 
+use lppw::LinearProgrammingProblem;
 
 use ellp::*;
 
