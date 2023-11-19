@@ -2,7 +2,7 @@
 
 I need a quick and dirty utility to solve tiny LP problems and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
 
-I find relevant to write a little wrapper so as to have less bloated code whenever I have to solve a LP problem and come with this.
+I find relevant to write a little wrapper so as to have less bloated code whenever I have to solve a LP problem and come up with this.
 
 To illustrate my intent, please see here after the crate's sample code rewritten using the wrapper. Judge by yourself ;-)
 
