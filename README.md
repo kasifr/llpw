@@ -12,8 +12,8 @@ To illustrate my intent, please see here after the crate's sample code rewritten
 
 ## Sample code:
 ```rust
-mod lpp; 
-use lpp::LinearProgrammingProblem;
+mod lppw; 
+use lppw::LinearProgrammingProblem;
 
 use ellp::*;
 
