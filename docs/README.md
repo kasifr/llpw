@@ -1,6 +1,6 @@
 # llpw
 
-I need a quick and dirty utility to solve tiny LP problems and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
+I need a quick and dirty utilityd to solve tiny LP problems and come across the promising and awesome rust crate [ellp](https://crates.io/crates/ellp).
 
 I find opportune to write a little wrapper so as to have _less bloated_ code to write whenever I have to solve a new LP problem and come up with this.
 
